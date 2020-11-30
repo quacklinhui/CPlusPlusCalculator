@@ -1,2 +1,3 @@
 # CPlusPlusCalculator
- Simple Terminal Version Calculator made using C++
+ Simple Calculator made using C++
+ 
